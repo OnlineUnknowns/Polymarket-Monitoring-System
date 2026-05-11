@@ -33,9 +33,6 @@
   <a href="https://www.linkedin.com/in/onlineunknown/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/defiance_cr/status/1906774862254800934">
-    <img src="https://img.shields.io/badge/Experience%20Thread-X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
 </p>
 
 </div>
@@ -50,8 +47,6 @@
 ## 📖 Overview
 
 **Polymarket Monitoring System** is a fully automated market-making and monitoring bot for [Polymarket](https://polymarket.com) prediction markets. It provides liquidity on both sides of the order book with configurable risk parameters, real-time WebSocket feeds, and Google Sheets-based configuration.
-
-A full write-up of my experience running this bot is available **[here](https://x.com/defiance_cr/status/1906774862254800934)**.
 
 ---
 
