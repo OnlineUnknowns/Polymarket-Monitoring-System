@@ -1,0 +1,136 @@
+# ══════════════════════════════════════════════════════════════
+#  poly-maker  ·  .gitignore
+# ══════════════════════════════════════════════════════════════
+
+
+# ── Project-specific ──────────────────────────────────────────
+output.txt
+data/
+positions/
+credentials.json
+*/credentials.json
+*.log
+
+
+# ── Environment & secrets ─────────────────────────────────────
+.env
+.env.*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+
+# ── Python bytecode ───────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+
+# ── Distribution & packaging ──────────────────────────────────
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+
+# ── Virtual environments ──────────────────────────────────────
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+__pypackages__/
+
+
+# ── uv / pip ──────────────────────────────────────────────────
+# uv.lock is committed — do NOT ignore it
+pip-log.txt
+pip-delete-this-directory.txt
+
+
+# ── Testing & coverage ────────────────────────────────────────
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+
+# ── Type checkers ─────────────────────────────────────────────
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+
+
+# ── Build tools ───────────────────────────────────────────────
+*.manifest
+*.spec
+.pdm.toml
+.pdm-python
+.pdm-build/
+.pybuilder/
+target/
+cython_debug/
+
+
+# ── Editors & IDEs ────────────────────────────────────────────
+.idea/
+.vscode-test
+.spyderproject
+.spyproject
+.ropeproject
+
+
+# ── Jupyter ───────────────────────────────────────────────────
+.ipynb_checkpoints
+profile_default/
+ipython_config.py
+
+
+# ── Docs ──────────────────────────────────────────────────────
+docs/_build/
+/site
+
+
+# ── Translations ──────────────────────────────────────────────
+*.mo
+*.pot
+
+
+# ── Celery ────────────────────────────────────────────────────
+celerybeat-schedule
+celerybeat.pid
+
+
+# ── Misc ──────────────────────────────────────────────────────
+*.sage.py
+*.pid
+*.seed
+*.pid.lock
