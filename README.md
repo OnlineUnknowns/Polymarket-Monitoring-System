@@ -42,7 +42,7 @@
 > [!WARNING]
 > **In today's market, this bot is not profitable and will lose money.** Use it as a reference implementation for building your own strategies, not as a ready-to-deploy solution. Given the increased competition on Polymarket, don't engage unless you're willing to dedicate significant time and capital.
 
----
+--
 
 ## 📖 Overview
 
