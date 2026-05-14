@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
 </p>
 
-<!-- Social Links -->
+<-- Social Links -->
 <p>
   <a href="https://buymeacoffee.com/onlineunknowns">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
