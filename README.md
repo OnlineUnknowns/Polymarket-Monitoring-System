@@ -8,7 +8,7 @@
 
 <br/>
 
-<!-- Tech Stack Badges -->
+<-- Tech Stack Badges -->
 <p>
   <img src="https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-16%2B-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
