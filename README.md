@@ -27,7 +27,7 @@
   <a href="https://buymeacoffee.com/onlineunknowns">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
   </a>
-  <a href="https://wa.me/201286016083">
+  <a href="https://wa.me/201286669272">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/onlineunknown/">
@@ -349,7 +349,7 @@ If this project helped you, consider buying me a coffee ☕
 
 <br/><br/>
 
-<a href="https://wa.me/201286016083">
+<a href="https://wa.me/201286669272">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35"/>
 </a>
 &nbsp;
